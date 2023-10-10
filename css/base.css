@@ -226,7 +226,7 @@ body #cdawrap {
     font-size: clamp(1.5rem,20vw,8rem);
     max-width: 15ch;
     margin: 0 auto;
-	background: linear-gradient(to right, #ff3300e8, #e0d204);
+	background: linear-gradient(to right, #ff3300e8, #f0bc12);
 	-webkit-background-clip: text;
 	color: transparent;
 	text-fill-color: transparent;
